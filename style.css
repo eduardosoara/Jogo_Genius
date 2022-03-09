@@ -1,6 +1,7 @@
 body {
     margin: 0;
-    background-color: rgb(208, 255, 239);
+    /*background-color: rgb(208, 255, 239);*/
+    background-image: url("img/background.jpg");
 }
 
 .main-game {
